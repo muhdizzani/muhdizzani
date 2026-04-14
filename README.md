@@ -21,13 +21,6 @@
 
 <p align="left">Hi! My name is Izzani. I am from Port Dickson, Negeri Sembilan, Malaysia 🇲🇾<br><br>- 🔭 I’m working as Design Engineer at Cytron Technologies, Malaysia<br>- 📚 I'm currently learning ZephyrRTOS <br>- ⚡ In my free time I hangout in cafe while drinking matcha while code</p>
 
-###
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhdizzani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###
 
