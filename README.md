@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Hi! My name is Izzani. I am from Port Dickson, Negeri Sembilan, Malaysia 🇲🇾<br><br>- 🔭 I’m working as Design Engineer at Cytron Technologies, Malaysia<br>- 📚 I'm currently learning ZephyrRTOS <br>- ⚡ In my free time I hangout in cafe while drinking matcha while code</p>
+<p align="left">Hi! My name is Izzani. I am from Port Dickson, Negeri Sembilan, Malaysia 🇲🇾</p>
 
 
 ###
